@@ -1,1 +1,1 @@
-# Instalasi-Debian-dan-Ubuntu-Server
+# Instalasi-Debian-Server
