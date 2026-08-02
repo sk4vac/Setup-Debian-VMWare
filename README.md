@@ -61,3 +61,43 @@ Tap `Customize Hardware`
 - Check the box `Virtualize Intel VT-X/EPT or AMD-V/RVI`
 
 Then choose finish, after that the machine will be powered on and you can continue to the next step.
+
+## Configuring The OS
+
+### Step 1
+
+<img width="1366" height="734" alt="image" src="https://github.com/user-attachments/assets/ea92a746-b246-4a8f-b4cf-5e0d195be406" />
+
+Choose `GUI Install` or `Install` for CLI, for now i'll be using CLI Install because we doesn't need a GUI Interface for Debian Server.
+
+### Step 2
+
+<img width="1366" height="739" alt="image" src="https://github.com/user-attachments/assets/512c5dc8-26dc-4312-8db4-f9acf940298a" />
+
+Choose you own desired language, I prefer `English`
+
+### Step 3
+
+<img width="1363" height="739" alt="image" src="https://github.com/user-attachments/assets/da262b0a-878a-4eb8-8564-b5a39162671c" />
+
+Choose your country.
+
+### Step 4
+
+<img width="1366" height="736" alt="image" src="https://github.com/user-attachments/assets/44e6f8a8-bed4-4d74-8562-4e4b00b31a99" />
+
+For Locale, I'd be use `en_US.UTF-8` (Default).
+
+### Step 5
+
+<img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/fa15309d-7a28-49c8-83c9-5f147362595a" />
+
+Keyboard Keymap choose `American English` for default.
+
+### Step 6
+
+
+
+
+
+
