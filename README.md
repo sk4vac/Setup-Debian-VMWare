@@ -225,3 +225,5 @@ When you first install debian, it's doesn't come with sudo package, you must ins
 6. `reboot`
 
 Wait until it finish reboot, and log in again, then type `sudo whoami` make sure the result is `root`
+
+<img width="1366" height="741" alt="image" src="https://github.com/user-attachments/assets/3312be6f-a73e-4a86-8928-ec3a43910048" />
