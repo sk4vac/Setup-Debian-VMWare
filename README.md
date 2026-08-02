@@ -8,8 +8,8 @@ In this repository, you'll learn how to properly set up and install your own Deb
 
 ### Prerequisite
 1. Debian 13.6.0 NetInstaller
-2. VMWare Workstation Full 26H1
-
+2. VMWare Workstation Full 26H1 [VMWare](https://drive.google.com/file/d/1GXfep8GCKtBZYbrOoBN7eUKU7pnygaJV/view?usp=sharing)
+3. Understanding of [VMWare & Pnetlab Setup](https://github.com/sk4vac/PNETLab-Setup-VMWare)
 
 ## Installation Guide
 
