@@ -96,7 +96,65 @@ Keyboard Keymap choose `American English` for default.
 
 ### Step 6
 
+<img width="1363" height="743" alt="image" src="https://github.com/user-attachments/assets/35f70169-8074-4614-8af7-8e4d31e584bb" />
 
+Choose your desired Hostname, Hostname is a name that will be visible to other device when you're connected to a network.
+
+### Step 7
+
+<img width="1366" height="740" alt="image" src="https://github.com/user-attachments/assets/5eb99b96-7b47-4a82-9385-ed0aaa535305" />
+
+Choose your own Domain if you have one. If not, skip this.
+
+### Step 8
+
+<img width="1365" height="738" alt="image" src="https://github.com/user-attachments/assets/1d2d35b0-f6d1-466c-b6fe-f1bde67c9e5b" />
+
+Set Password for `Root`
+
+### Step 9
+
+<img width="1366" height="740" alt="image" src="https://github.com/user-attachments/assets/87204533-88e6-4526-83ab-6cdc7c343bb0" />
+
+Type your name here for credential.
+
+### Step 10
+
+<img width="1366" height="735" alt="image" src="https://github.com/user-attachments/assets/c85423a9-981b-4200-9d33-909bb4be8a6c" />
+
+Type your desired username here, username used as a login name when you're trying to login through SSH or TelNet, and will also appear in the terminal.
+
+### Step 11
+
+<img width="1366" height="738" alt="image" src="https://github.com/user-attachments/assets/f65674cf-111c-4f7c-a598-7f6581ca6302" />
+
+Choose your desired timezone, this option depends on the country you select before.
+
+### Step 12
+
+<img width="1366" height="733" alt="image" src="https://github.com/user-attachments/assets/d90cb784-8cfe-4518-bd1a-5f869cc83cb5" />
+
+For partitioning choose `Guided - Use entire disk`
+
+### Step 13
+
+<img width="1366" height="736" alt="image" src="https://github.com/user-attachments/assets/aa9d8a7a-935e-4d84-a1f3-5329f0040f01" />
+
+Choose `All files in one partition`
+
+### Step 14
+
+<img width="1366" height="740" alt="image" src="https://github.com/user-attachments/assets/a25508ab-7775-4732-834f-da48876c7a35" />
+
+Finish!
+
+### Step 15
+
+<img width="1366" height="750" alt="image" src="https://github.com/user-attachments/assets/83952aa8-7ea5-488c-8855-92b0749f16ba" />
+
+Yes!
+
+### Step 16
 
 
 
