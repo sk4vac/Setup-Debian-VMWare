@@ -156,6 +156,24 @@ Yes!
 
 ### Step 16
 
+<img width="1366" height="737" alt="image" src="https://github.com/user-attachments/assets/2189d23f-be88-4c3d-8374-601052a9c76d" />
 
+For this choose `NO`
 
+### Step 17
 
+<img width="1366" height="738" alt="image" src="https://github.com/user-attachments/assets/7dbbd790-b206-45b9-9efc-ce893cc19e51" />
+
+Always choose `United State`
+
+### Step 18
+
+<img width="1366" height="735" alt="image" src="https://github.com/user-attachments/assets/5a9c7a7f-4169-460f-89d6-6772c7a2e337" />
+
+Choose `ftp.us.debian.org`
+
+### Step 19
+
+<img width="1366" height="733" alt="image" src="https://github.com/user-attachments/assets/9ce878b8-6322-4b4f-9108-c33024aaca2c" />
+
+Just continue this step, and you need to wait until the download finished.
