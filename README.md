@@ -158,22 +158,70 @@ Yes!
 
 <img width="1366" height="737" alt="image" src="https://github.com/user-attachments/assets/2189d23f-be88-4c3d-8374-601052a9c76d" />
 
-For this choose `NO`
+For this choose `NO`.
 
 ### Step 17
 
 <img width="1366" height="738" alt="image" src="https://github.com/user-attachments/assets/7dbbd790-b206-45b9-9efc-ce893cc19e51" />
 
-Always choose `United State`
+Always choose `United State`.
 
 ### Step 18
 
 <img width="1366" height="735" alt="image" src="https://github.com/user-attachments/assets/5a9c7a7f-4169-460f-89d6-6772c7a2e337" />
 
-Choose `ftp.us.debian.org`
+Choose `ftp.us.debian.org`.
 
 ### Step 19
 
 <img width="1366" height="733" alt="image" src="https://github.com/user-attachments/assets/9ce878b8-6322-4b4f-9108-c33024aaca2c" />
 
 Just continue this step, and you need to wait until the download finished.
+
+### Step 20
+
+<img width="1366" height="738" alt="image" src="https://github.com/user-attachments/assets/8708c5d3-2cc8-4d55-9c34-59b6142b07ce" />
+
+Choose `No`.
+
+### Step 21
+
+<img width="1366" height="739" alt="image" src="https://github.com/user-attachments/assets/ac49b22c-ed7b-45b6-8adb-15e6a51e3d85" />
+
+Only check `Standard system utilities` and `SSH Server`.
+
+### Step 22
+
+<img width="1366" height="736" alt="image" src="https://github.com/user-attachments/assets/93b2d9e7-f9c6-488f-b05a-48b03186f4ac" />
+
+Choose `Yes`
+
+### Step 23
+
+<img width="1366" height="735" alt="image" src="https://github.com/user-attachments/assets/00330a72-1ce7-4f86-bb75-0733d821cfac" />
+
+Choose `/dev/sda`
+
+### Step 24
+
+<img width="1366" height="733" alt="image" src="https://github.com/user-attachments/assets/c10896a2-59e1-47f9-8fe3-6f2fc7841800" />
+
+Choose `continue` and your Debian will be restarted shortly, just wait until boot again and login with the credential you put earlier.
+
+<img width="1366" height="738" alt="image" src="https://github.com/user-attachments/assets/bffd5ccd-0b05-427d-8cc4-70263f3577a0" />
+
+Congratulation! You just installed the base minimal system of Debian.
+
+## Package Installation
+
+### Step 1 (Sudo Installation)
+
+When you first install debian, it's doesn't come with sudo package, you must install it first in order to execute `sudo` command. Follow this steps!
+1. `su -`
+2. `apt update`
+3. `apt upgrade`
+4. `apt install sudo`
+5. `usermod -aG sudo [your username]`
+6. `reboot`
+
+Wait until it finish reboot, and log in again, then type `sudo whoami` make sure the result is `root`
