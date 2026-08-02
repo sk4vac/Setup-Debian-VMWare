@@ -7,7 +7,7 @@
 In this repository, you'll learn how to properly set up and install your own Debian Server on your VM, Debian is one of the most popular Linux Distro used widely for daily task and also can perform as a server OS.
 
 ### Prerequisite
-1. Debian 13.6.0 NetInstaller
+1. Debian 13.6.0 NetInstaller [Debian 13.6.0](https://drive.google.com/file/d/1Vd764pZh6JxesinGy92bAiKsv7CO5cuJ/view?usp=sharing)
 2. VMWare Workstation Full 26H1 [VMWare](https://drive.google.com/file/d/1GXfep8GCKtBZYbrOoBN7eUKU7pnygaJV/view?usp=sharing)
 3. Understanding of [VMWare & Pnetlab Setup](https://github.com/sk4vac/PNETLab-Setup-VMWare)
 
