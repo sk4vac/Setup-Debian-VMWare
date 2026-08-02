@@ -59,3 +59,5 @@ Tap `Customize Hardware`
 - Minimum Processor is 1 and 1 Core each
 - Network Adapter set to NAT
 - Check the box `Virtualize Intel VT-X/EPT or AMD-V/RVI`
+
+Then choose finish, after that the machine will be powered on and you can continue to the next step.
